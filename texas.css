@@ -1,0 +1,71 @@
+body {
+    background-color: gray;
+    background-image: url(texas-bg-jpg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+}
+
+#wrap {
+    width: 80%;
+    border: 1px solid red;
+    margin: 0 auto;
+}
+
+header img { 
+    width: 80%;}
+
+header { 
+    background: #cccccc;
+    text-align: center;
+}
+
+nav li {
+    display:inline;
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    background: gray;
+}
+
+nav a {
+    color:white;
+    padding: 20px;
+    margin-right: 10px;
+    font-family: Verdana;
+    font-size: 20px;
+}
+
+section {
+    background: white;
+    padding: 30px;
+    overflow: auto;
+}
+
+<h1>
+
+div.box {
+    width: 200px;
+    height: 200px;
+    background-color: #61db48;
+    border: 10px solid black;
+    padding: 10px;
+    margin: 10px;
+}
+
+footer {
+    background-color: gray;
+    padding: 10px;
+    text-align: center;
+    color: white;
+}
+.officer {
+    width: 30%;
+    float: right;
+    }
