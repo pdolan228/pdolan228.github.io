@@ -1,6 +1,6 @@
 
 body {
-    background-color: #ccc;
+    background-color: white;
     margin: 0;
     padding: 0;
     font-family: Arial;
@@ -13,7 +13,7 @@ header img {
 
 .topnav {
     overflow: hidden;
-    background-color:#EE82EE ;
+    background-color:cyan ;
     text-align: center;
 }
 
@@ -25,7 +25,7 @@ footer li {
 
 /* Style the topnav links */
 .topnav a {
-    color: #f2f2f2;
+    color: gainsboro;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -52,7 +52,7 @@ footer a {
 #main {
     width: 68%;
     float: right;
-    background-color: #F5DEB3;
+    background-color: beige;
     padding: 1%;
 }
 
@@ -60,7 +60,7 @@ footer a {
     width: 30%;
     float: left;
     background-color: black;
-    color: #F5DEB3;
+    color: lightgoldenrodyellow;
     text-decoration: none;
 }
 
@@ -71,7 +71,7 @@ footer a {
 }
 
 #side a {
-    color: #F5DEB3;
+    color: lightgoldenrodyellow;
     text-decoration: none;
 }
 
@@ -81,7 +81,7 @@ section {
 }
 
 footer {
-    background-color: #EE82EE;
+    background-color: cyan;
     text-align: center;
     padding: 5px;
 }
