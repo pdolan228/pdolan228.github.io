@@ -76,7 +76,7 @@ footer a {
 }
 
 section {
-    background-color: black;
+    background-color: beige;
     overflow: auto;
 }
 
@@ -86,7 +86,6 @@ footer {
     padding: 5px;
 }
 
-/* On screens that are 600px wide or less, make the menu links stack on top of each other instead of next to each other */
 @media screen and (max-width: 600px) {
     #wrap {
         width: 99%;
