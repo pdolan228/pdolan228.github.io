@@ -85,7 +85,11 @@ section {
     width:50%;
     float: right;
     position: relative;
-   
+   }
+
+.pfpic {
+  margin: auto;
+    float: left;
     
 }
 .button {
